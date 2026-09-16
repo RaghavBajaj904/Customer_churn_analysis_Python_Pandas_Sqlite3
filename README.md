@@ -52,7 +52,10 @@ This project analyzes customer churn using **Python, Pandas, Matplotlib, Seaborn
 ```text
 customer-churn-analysis/
 ├── README.md
+├── customer_churn_database.db
+├── Churn data.txt
 ├── churn_analysis.ipynb
+
 ```
 
 ## 📌 Conclusion
